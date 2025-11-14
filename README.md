@@ -1,4 +1,3 @@
-# desert-of-truth[index-1.html](https://github.com/user-attachments/files/23553202/index-1.html)
 <!DOCTYPE html>
 <html lang="tr">
 <head>
